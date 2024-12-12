@@ -11,7 +11,7 @@ def print_banner():
 {Fore.YELLOW}{'='*40}
           {Fore.GREEN}Main Tools Menu      
 {Fore.YELLOW}{'='*40}
- {Fore.BLUE}1. Grabber Tools
+ {Fore.BLUE}1. Grabber Premium
  {Fore.BLUE}2. Subfinder Tools
  {Fore.BLUE}3. CMS Scan Tools
  {Fore.BLUE}4. RCE Scan Tools
@@ -29,7 +29,7 @@ def print_banner():
  {Fore.BLUE}16. XMLRPC
  {Fore.BLUE}0. Exit
 {Fore.YELLOW}{'='*40}
-{Fore.RED}Donasi: https://t.me/SomsakKittisak
+{Fore.RED}Donasi: https://t.me/fatcatcyberteam
 {Fore.RED}        https://t.me/xinxhau
 {Fore.YELLOW}{'='*40}
     """
@@ -41,7 +41,7 @@ def main():
         choice = input(f"{Fore.WHITE}Pilih Tools : {Fore.MAGENTA}")
 
         if choice == '1':
-            os.system('python files/grabber.py')
+            os.system('python files/grabber3.py')
         elif choice == '2':
             os.system('python files/subfinder.py')
         elif choice == '3':
