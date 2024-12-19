@@ -36,7 +36,7 @@ yellow = Fore.YELLOW + Style.BRIGHT
 print(yellow + "[======================================================]")
 print(yellow + "        Grabber, Subfinder, CMS Scanner & RCE")
 print(yellow + "                Version  : 1.0")
-print(yellow + "            Fatcat Cyber Team ft JACK007")
+print(yellow + "            Fatcat Cyber Team ft LSC")
 print(yellow + "[======================================================]")
 print(Style.RESET_ALL)
 
