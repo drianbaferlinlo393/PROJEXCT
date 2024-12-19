@@ -6,7 +6,7 @@ init(autoreset=True)
 def print_banner():
     banner = f"""
 {Fore.RED}{'='*40}
-    {Fore.CYAN}{Style.BRIGHT}FATCAT CYBER TEAM Ft JACK007
+    {Fore.CYAN}{Style.BRIGHT}FATCAT CYBER TEAM Ft LSC
 {Fore.RED}{'='*40}
 {Fore.YELLOW}{'='*40}
           {Fore.GREEN}Main Tools Menu      
@@ -29,8 +29,8 @@ def print_banner():
  {Fore.BLUE}16. XMLRPC
  {Fore.BLUE}0. Exit
 {Fore.YELLOW}{'='*40}
-{Fore.RED}Donasi: https://t.me/SomsakKittisak
-{Fore.RED}        https://t.me/xinxhau
+{Fore.RED}Donasi: https://t.me/bagudung1995
+{Fore.RED}        https://t.me/bagudung1995
 {Fore.YELLOW}{'='*40}
     """
     print(banner)
