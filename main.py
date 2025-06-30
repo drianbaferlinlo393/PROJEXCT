@@ -6,7 +6,7 @@ init(autoreset=True)
 def print_banner():
     banner = f"""
 {Fore.RED}{'='*40}
-    {Fore.CYAN}{Style.BRIGHT}FATCAT CYBER TEAM Ft LSC
+    {Fore.CYAN}{Style.BRIGHT}LSC.BB
 {Fore.RED}{'='*40}
 {Fore.YELLOW}{'='*40}
           {Fore.GREEN}Main Tools Menu      
